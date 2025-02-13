@@ -1,6 +1,10 @@
+![Motive Creations Logo](https://github.com/user-attachments/assets/658c39e7-d117-4a9d-af0c-f455690afbaf)
+
 ## Welcome To Motive Creations!
 
-#### We hope you like it here! We are a small group of coders/developers based in NJ.
+We are a small group of coders/developers based in NJ. We're devoted to making simplistic and useful tools for everyone to use! Our official webpage is [here!](https://motivecreate.wixsite.com/home)
+
+We are always looking for new and innovative coders to help us with our coding. Unfortunately, we are currently not accepting applications.
 <!--
 
 **Here are some ideas to get you started:**
